@@ -1,5 +1,3 @@
 # Canvas
 
-The [Canvas HTML-Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas) allows access to individual pixels to enable fast drawing applications.
-
-Its API gives access to [WebGL](WEBGL.md) for 3D graphics and to the [2D drawing API](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D).
+[Canvas](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas) Il s'agit d'un espace de pixels initialement transparents, armés de JavaScript pour réaliser un bon nombre de fonctions graphiques, partant du simple tracé de courbe pour aller jusqu'aux animations et jeux vidéo.
