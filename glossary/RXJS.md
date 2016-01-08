@@ -1,7 +1,7 @@
 # RxJS
 
-[RxJS](https://github.com/Reactive-Extensions/RxJS) is a library in the [ReactiveX](http://reactivex.io/) family of functional reactive programming libraries. It allows you to develop programs that respond to asynchronous events by composing sequences of observable streams.
+[RxJS](https://github.com/Reactive-Extensions/RxJS)  est une librairie dans la famille [ReactiveX](http://reactivex.io/) des bibliothèques de programmation fonctionnelle réactive. Cela vous permet de développer des programmes qui répondent à des événements asynchrones en composant des séquences de flux observables. 
 
-Observable streams can send zero or more “data” notifications and terminate with either an “completed” or an “error” notification. Subsequent streams can combine and remix these notifications into new observable patterns, making it possible to compose rich sequences of asynchronous events that clean up resources appropriately when done.
+Les flux observables peuvent envoyer zéro ou plusieurs notifications de "données" et terminer avec soit une notification «completed» ou «error». Les flux ultérieurs peuvent se combiner et remixer ces notifications dans les nouveaux modèles observables, ce qui permet de composer de riches séquences d'événements asynchrones qui nettoient les ressources de manière appropriée lorsque c'est terminé.
 
-RxJS is available under an Apache license. It is developed by Microsoft Open Source and numerous third-party contributors.
+RxJS est disponible sous la licence Apache. Il est développé par Microsoft Open Source et de nombreux contributeurs tiers.
