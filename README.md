@@ -76,7 +76,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### F
 
 * [Falcor](/glossary/FALCOR.md): *to be completed.*
-* [Flux](/glossary/FLUX.md): an application structure focusing on improved data flow.
+* [Flux](/glossary/FLUX.md): une structure applucative axée sur l'amélioration du flux de données.
 
 ### G
 
