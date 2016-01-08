@@ -147,7 +147,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 * [Ramda](/glossary/RAMDA.md): a practical functional library for Javascript programmers.
 * [React](/glossary/REACT.md): a library developed and used at Facebook for building user interfaces.
-* [Redux](/glossary/REDUX.md): a predictable state container for apps.
+* [Redux](/glossary/REDUX.md): un récipient d'état prévisible pour les applications
 * [RxJS](/glossary/RXJS.md): a library for asynchronous programming using observable streams.
 * [Require.js](/glossary/REQUIREJS.md): *to be completed.*
 
@@ -163,7 +163,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### U
 
 * [UMD](/glossary/UMD.md): a pattern of universal module definition for JavaScript modules.
-* [Underscore](/glossary/UNDERSCORE.md): a swiss army knife, focusing on helper methods for most built-in objects.
+* [Underscore](/glossary/UNDERSCORE.md): un couteau suisse se concentrant sur les méthodes d'assistance pour les objets les plus intégrés
 * [Universal](/glossary/UNIVERSAL.md): an application is said to be universal (isomorphic) when its code can run both in the client and the server.
 
 ### V
