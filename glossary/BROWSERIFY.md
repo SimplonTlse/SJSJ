@@ -1,5 +1,5 @@
 # Browserify
 
-[Browserify](http://browserify.org/) is a tool that allows you to use the [require](https://nodejs.org/api/modules.html) [Node.js](NODEJS.md) function while working for the browser by bundling up all the required dependencies. 
+[Browserify](http://browserify.org/) est un outil vous permettant d'utiliser la fonction [require](https://nodejs.org/api/modules.html) de [Node.js](NODEJS.md) côté navigateur en rassemblant toutes les dépendences requises.
 
-The idea behind Browserify is to make it possible to use existing libraries from [npm](NPM.md) even when writing code for the client side. To allow this, it goes through the code, request the required dependencies, then create a single file containing everything: both the dependencies and the code using them.
+L'idée derrière Browserify est de rendre possible l'utilisation de librairies existantes de [npm](NPM.md) même en écrivant du code pour le côté client. Pour ce faire, il parcours le code, appelle les dépendences requises, et crée un seul et même fichier contenant tout : les dépendences ainsi que le code qui les utilise.

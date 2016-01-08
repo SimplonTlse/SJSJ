@@ -1,8 +1,8 @@
 # IIFE
 
-IIFE (for *Immediately Invoked Function Expression*) is a function that gets called immediately after declaration. It is most often used to create a scoping context (a context in which all variables and function definitions are scoped).
+IIFE (pour *Immediately Invoked Function Expression* ou *Fonction Appelée Immédiatement*) est une fonction qui est appelée immédiatement après sa déclaration. Cela est très souvent utilisé pour englober le contexte (un contexte dans lequel toutes les variables et fonctions sont englobées)
 
-An IIFE can be written with the calling brackets (`()`) inside of the wrapping brackets:
+Une IIFE peut être écrite avec des parenthèses d'appel (`()`) à l'intérieur de parenthèses englobantes :
 
 ```js
 (function foo () {
@@ -10,7 +10,7 @@ An IIFE can be written with the calling brackets (`()`) inside of the wrapping b
 }());
 ```
 
-Or with the calling brackets on the outside:
+Ou avec les parenthèses d'appel à l'extérieur :
 
 ```js
 (function foo () {
@@ -18,4 +18,4 @@ Or with the calling brackets on the outside:
 })();
 ```
 
-The examples above are both named IIFE’s (`foo`) but it is also quite common to write them anonymously (without a function name).
+Les exemples ci dessus sont toutes les deux appelées IIFE de (), mais il est commun de les écrire de façon anonyme (sans nom de fonction).
