@@ -1,7 +1,7 @@
 # Isomorphic
 
-An isomorphic (or [preferably](https://medium.com/@mjackson/universal-javascript-4761051b7ae9) [universal](UNIVERSAL.md)) application is one whose code (in this case, JavaScript) can run both in the server and the client.
-
-The underlying idea is to allow the server to render and handle routing of an application for non-JavaScript users, while also making it fully working in the browser for fast interactions without involving traditional page reloads.
-
-In an isomorphic application, the initial request made by the web browser is processed by the server while subsequent requests are processed by the client.
+Une application crée dans un seul language de programation (dans ce cas, Javascript) qui marche autant sur le coté serveur que client.
++
++L'idée sous-jacente est de permettre au serveur d'affiché et de faire fonctionné une aplication pour les utilisateur n'utilisant pas Javascript, tout en rendant entièrement fonctionnel pour rendre rapide les interactions contrairement au rafraichissement complet de la page web traditionnel.
++
++Dans une application asynchrone, la requete inital du navigateur web est traité par le serveur les suivante sont traitées directement pas le client.  
