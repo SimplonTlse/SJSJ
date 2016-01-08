@@ -1,13 +1,13 @@
 # Ember
 
-[Ember](http://emberjs.com/) is an application framework based on the model-view-controller pattern. By incorporating common patterns and idioms into the framework it aims to allow developers to create ambitious web applications quickly and easily. A side-effect of these abilities (either negative or positive depending upon the readers point of view) is that a certain conformity of naming and structure within those applications is expected.
+[Ember](http://emberjs.com/) il s'agit d'un framework basé sur une architecture MVC (Modèle-Vue-controleur).Utiliser des templates incorporés, permet aux developpeurs  de créer d'ambitieuses applications web, rapidement et facilement. Cependant,  son utilisation engendre l'adoptation d'un comportement particulier (négatif ou positif selon le point de vue) : une véritable rigueur/discipline dans le nommage et la structure de ces applications, c'est indispensable. 
 
-A key aim of the Ember project is that backward compatibility is an important feature of the framework so that applications may be built with Ember in the knowledge that future releases of the framework will not break those applications.
+Un des atouts majeurs d'Ember est : sa rétrocompatibilité. En effet, les applications peuvent être construites avec Ember en sachant que les versions futures du framework ne casseront pas tout le travail réalisé précédemment sur ces applications.
 
-Ember relies upon the following [core concepts](https://guides.emberjs.com/v2.1.0/getting-started/core-concepts/):
+Ember s'appuie sur le lien suivant: [notions essentielles](https://guides.emberjs.com/v2.1.0/getting-started/core-concepts/):
 
- - **Templates**: Ember.js templates use [handlebars](http://handlebarsjs.com/) style syntax and are used to integrate data with pre-written HTML.
- - **Models**: In Ember.js models allow the objects which the web application makes use of to be persisted.
- - **Components**: Components are used to define the behaviour of the user interface in Ember.js. By combining a template and some javascript a component works to produce a representation which is useful to the web application user.
- - **Routes**: A route loads a component, a template and, optionally, some models. The resulting HTML is then rendered to the user agent.
- - **The Router**: Maps a URL to a given route.
+ - **Templates**: Ember.js templates utilisés [Handlebars](http://handlebarsjs.com/) style et syntaxe sont utilisés pour intégrer les datas  dans des templates HTML préécrits.
+ - **Modèles**: En Ember.js  les modèles permettent la récupération de données que les applications Web s'emploient à conserver et mettre à jour.
+ - **Components**: Les Components ou composants sont utilisés pour définir le comportement des utilisateurs de l'interface Ember.js. En combinant un template et un peu de Javascript, un composant fonctionne pour produire une représentation qui est utilisable par l'utilisateur de l'application web. 
+ - **Routes**:  Le Router charge un composant, un template et parfois quelques modèles. Le résulat HTML est alors délivré à l'utilisateur.
+ - **Le Router**: Il Crée une URL pour donner une route.
