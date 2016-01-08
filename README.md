@@ -48,7 +48,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [Bluebird](/glossary/BLUEBIRD.md): a fully featured Promise library with focus on innovative features and performance.
 * [Bower](/glossary/BOWER.md): a package manager for front-end dependencies.
 * [Broccoli](/glossary/BROCCOLI.md): a fast and reliable asset pipeline.
-* [Browserify](/glossary/BROWSERIFY.md): a tool making possible to use the `require` function from Node.js within the browser.
+* [Browserify](/glossary/BROWSERIFY.md): un outil qui permet de rendre possible l'utilisation de la fonction `require` de Node.js à travers le Navigateur.
 * [Brunch](/glossary/BRUNCH.md): a tool focusing on the production of deployment-ready files from development files.
 
 ### C
@@ -76,7 +76,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### F
 
 * [Falcor](/glossary/FALCOR.md): *to be completed.*
-* [Flux](/glossary/FLUX.md): an application structure focusing on improved data flow.
+* [Flux](/glossary/FLUX.md): une structure applucative axée sur l'amélioration du flux de données.
 
 ### G
 
@@ -90,7 +90,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### I
 
-* [IIFE](/glossary/IIFE.md) (Immediately Invoked Function Expression): a function that gets called immediately after declaration.
+* [IIFE](/glossary/IIFE.md) (Immediately Invoked Function Expression ou Fonction Immédiatement Appelée): une fonction appelée directement après sa déclaration.
 * [Isomorphic](/glossary/ISOMORPHIC.md): an application is said to be isomorphic (universal) when its code can run both in the client and the server.
 
 ### J
