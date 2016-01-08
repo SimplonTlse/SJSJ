@@ -57,7 +57,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [Chai](/glossary/CHAI.md): an assertion library used with a JavaScript testing framework.
 * [Closure](/glossary/CLOSURE.md): a way of referencing variables from a child function while retaining their value even if it changes in the parent function.
 * [CoffeeScript](/glossary/COFFEESCRIPT.md): a language that compiles into JavaScript.
-* [CORS](/glossary/CORS.md): a way for a server to make things accessible to pages hosted on other domains.
+* [CORS](/glossary/CORS.md): une voie pour un serveur pour faire en sorte que les informations soient accessibles à des pages hébergées dans des domaines différents.
 * [CouchDB](/glossary/COUCHDB.md): a NoSQL database with JavaScript as query language and HTTP as API.
 * [Currying](/glossary/CURRYING.md): a technnique that consists of changing a function that takes several arguments into a number of functions that each take one argument.
 
@@ -120,7 +120,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [Moment.js](/glossary/MOMENTJS.md): a library to parse, validate, manipulate and display dates.
 * [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
 * [Metalsmith](/glossary/METALSMITH.md): a simple, pluggable static site generator.
-* [MEAN](/glossary/MEAN.md): the technology stack MongoDB, ExpressJS, AngularJS, and Node.js (MEAN).
+* [MEAN](/glossary/MEAN.md): la pile de technologie regroupant MongoDB, ExpressJS, AngularJS, et Node.js (MEAN).
 
 ### N
 
