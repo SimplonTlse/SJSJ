@@ -1,7 +1,8 @@
 # Nightmare
 
-[Nightmare](http://nightmarejs.org/) is a high-level browser automation library.
+[Nightmare](http://nightmarejs.org/) est une bibliothèque d'automatisation de navigateur de haut niveau.
 
-The goal is to expose just a few simple methods, and have an API that feels synchronous for each block of scripting, rather than deeply nested callbacks. It is designed for automating tasks across sites that do not have APIs.
+L'objectif est d'exposer quelques méthodes simples, et d'avoir une API qui se synchrone pour chaque bloc de script, plutôt que des rappels profondément imbriqués.
+Il est conçu pour automatiser des tâches sur des sites qui ne possèdent pas d'API.
 
-Under the cover, it uses [Electron](http://electron.atom.io/), which is similar to [PhantomJS](PHANTOMJS.md) but faster and more modern.
+Sous le cache, il utilise [Electron](http://electron.atom.io/), qui est semblable à [PhantomJS](PHANTOMJS.md) mais plus rapide et plus moderne.
