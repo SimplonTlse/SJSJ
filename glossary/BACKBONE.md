@@ -1,3 +1,4 @@
 # Backbone
 
-[Backbone.js](http://backbonejs.org/) is a framework giving structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to existing APIs over a RESTful [JSON](JSON.md) interface.
+[Backbone.js](http://backbonejs.org/)  >un cadre structuré pour applications web dynamique.
+>ce cadre donne une structure aux applications web en leur fournissant des modèles qui lie des valeurs clé aux événements, et une API avec de nombreuses fonctions, il connecte toutes les API existantes sur l’interface JSON RESTful.
