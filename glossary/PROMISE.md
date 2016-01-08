@@ -1,7 +1,7 @@
 # Promise
 
-A *Promise* represents a value that may not be available yet but will eventually be resolved at some point in the future. The point is to allow developers to write asynchronous code in a more synchronous fashion, escaping from the popular [callback hell](http://callbackhell.com/).
+ *Promise*  Il s'agit d'un objet qui représente une valeur qui n'est pas encore disponible mais qui le sera, possiblement, plus tard. L'enjeux est de permettre aux developpeurs d'écrire du code asynchrone de manière synchrone, échappant ainsi au populair [callback de la mort](http://callbackhell.com/).
 
-Promises are not fully supported in all browsers yet (see [support](http://caniuse.com/#feat=promises)), however a lot of libraries mimick their behavior to make them usable right away; [Bluebird](BLUEBIRD.md) is one of them.
+Promises ne sont pas toutes complétement supportées par tous les navigateurs(voir [assistance](http://caniuse.com/#feat=promises)), cependant beaucoup de bibliothèques calquent leurs comportements pour se rendre utilisable immédiatement; [Bluebird](BLUEBIRD.md) est , par exmeple, l'un d'entre eux.
 
-For more information about how promises work and when to use them, there is [complete overview](http://robotlolita.me/2015/11/15/how-do-promises-work.html).
+Pour plus d'informations sur le fonctionnement de Promise, poursuivez par ici: [récapitulatif complet](http://robotlolita.me/2015/11/15/how-do-promises-work.html).
