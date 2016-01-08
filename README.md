@@ -69,7 +69,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### E
 
 * [ECMAScript](/glossary/ECMASCRIPT.md): the standardized specification of the scripting language used by JavaScript.
-* [Ember](/glossary/EMBER.md): an application framework based on the model-view-controller pattern.
+* [Ember](/glossary/EMBER.md): il s'agit d'un framework basé sur une architecture MVC (Modèle-Vue-controleur)
 * [ESLint](/glossary/ESLINT.md): a JavaScript code linter.
 * [Express](/glossary/EXPRESS.md): a fast, un-opinionated, minimalist web framework for Node.js.
 
@@ -98,7 +98,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [Jasmine](/glossary/JASMINE.md): a testing framework for BDD.
 * [jQuery](/glossary/JQUERY.md): a fast, small, and feature-rich client-side library.
 * [JSCS](/glossary/JSCS.md): a JavaScript code linter.
-* [JSHint](/glossary/JSHINT.md): a JavaScript code linter.
+* [JSHint](/glossary/JSHINT.md): Il s'agit d'un outil aidant à détecter les erreurs et problemes potentiels dans son code.
 * [JSLint](/glossary/JSLINT.md): a JavaScript code linter.
 * [JSON](/glossary/JSON.md) (JavaScript Object Notation): a lightweight data-interchange format.
 * [JSON-LD](/glossary/JSON-LD.md): JSON for Linked Data.
@@ -136,7 +136,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [PhantomJS](/glossary/PHANTOMJS.md): *to be completed.*
 * [PhoneGap](/glossary/PHONEGAP.md): *to be completed.*
 * [Polymer](/glossary/POLYMER.md): *to be completed.*
-* [Promise](/glossary/PROMISE.md): a proxy for a value not necessarily known immediately but that will eventually be resolved.
+* [Promise](/glossary/PROMISE.md): Il s'agit d'une interface vers une valeur qui n'est pas connue initialement mais qui pourra potentiellement, plus tard, être résolue.
 * [Prototype](/glossary/PROTOTYPE.md): *to be completed.*
 
 ### Q
