@@ -1,3 +1,5 @@
 # JSON-LD 
 
-[JSON-LD (JSON for Linked Data)](http://json-ld.org/) is a lightweight Linked Data format. It is easy for humans to read and write. It is based on the already successful JSON format and provides a way to help JSON data interoperate at Web-scale. JSON-LD is an ideal data format for programming environments, REST Web services, and unstructured databases such as CouchDB and MongoDB. 
+[JSON-LD (JSON for Linked Data)](http://json-ld.org/)  (Web des données .. : Le Web des données est une initiative du W3C visant à favoriser la publication de données structurées sur le Web, non pas sous la forme de silos de données isolés les uns des autres, mais en les reliant entre elles pour constituer un réseau global d'informations. …)
+est un format léger de « données liés ». Aisé à écrire et lire.
+Basé sur le format JSON qui a déjà son succès.
