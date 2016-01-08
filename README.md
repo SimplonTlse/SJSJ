@@ -37,7 +37,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### A
 
-* [AJAX](/glossary/AJAX.md): a technology for asynchronous HTTP requests.
+* [AJAX](/glossary/AJAX.md): Une technologie pour rendre asynchrone les requétes html.
 * [AMD](/glossary/AMD.md): a standard defining how to load JavaScript libraries or modules asynchronously.
 * [AngularJS](/glossary/ANGULARJS.md): a structural framework for dynamic web apps.
 
@@ -91,7 +91,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### I
 
 * [IIFE](/glossary/IIFE.md) (Immediately Invoked Function Expression): a function that gets called immediately after declaration.
-* [Isomorphic](/glossary/ISOMORPHIC.md): an application is said to be isomorphic (universal) when its code can run both in the client and the server.
+* [Isomorphic](/glossary/ISOMORPHIC.md): Une application qui ce dit universel. C'est à dire quand le code marche autant du coté client que du coté serveur. 
 
 ### J
 
@@ -176,7 +176,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### W
 
 * [WebGL](/glossary/WEBGL.md) (Web Graphics Library): a JavaScript API for rendering interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins.
-* [Webpack](/glossary/WEBPACK.md): a dependency manager with a friendly and fast development environment, simplifying a lot of common tasks.
+* [Webpack](/glossary/WEBPACK.md):  Un gestionnaire de modules avec un environnement pratique et rapide pour le dévelopement, ce qui simplifie beaucoup de taches communes 
 
 ### X
 
