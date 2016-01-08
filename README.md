@@ -46,7 +46,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [Bluebird](/glossary/BLUEBIRD.md): a fully featured Promise library with focus on innovative features and performance.
 * [Bower](/glossary/BOWER.md): a package manager for front-end dependencies.
 * [Broccoli](/glossary/BROCCOLI.md): a fast and reliable asset pipeline.
-* [Browserify](/glossary/BROWSERIFY.md): un outil qui permet de rendre possible l'utilisation de la fonction `require` de Node.js à travers le Navigateur
+* [Browserify](/glossary/BROWSERIFY.md): un outil qui permet de rendre possible l'utilisation de la fonction `require` de Node.js à travers le Navigateur.
 * [Brunch](/glossary/BRUNCH.md): Un outil axé sur la production de fichiers prêts à être déployés à partir de fichiers de développement.
 
 ### C
