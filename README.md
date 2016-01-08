@@ -64,8 +64,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### D
 
 * [D3.js](/glossary/D3JS.md): a library for manipulating documents based on data.
-* [DOM](/glossary/DOM.md): a platform- and language-neutral interface that allow programs and scripts to dynamically access and update the content, structure and style of documents.
-
+* [DOM](/glossary/DOM.md): [DOM (Document Object Model)Le DOM est l’interface programmatique (API) qui permet au développeur web d’accéder et de manipuler le contenu d’une page web, aussi appelée document. Il fournit une représentation structurée et orientée objet des éléments et du contenu d’une page avec les méthodes permettant de modifier les propriétés de ces objets. Il fournit aussi des méthodes permettant l’ajout et la suppression de tels objets, permettant ainsi au développeur web de créer du contenu dynamique en modifiant le contenu, la structure et le style du document.
 ### E
 
 * [ECMAScript](/glossary/ECMASCRIPT.md): the standardized specification of the scripting language used by JavaScript.
@@ -100,7 +99,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [JSCS](/glossary/JSCS.md): a JavaScript code linter.
 * [JSHint](/glossary/JSHINT.md): a JavaScript code linter.
 * [JSLint](/glossary/JSLINT.md): a JavaScript code linter.
-* [JSON](/glossary/JSON.md) (JavaScript Object Notation): a lightweight data-interchange format.
+* [JSON](/glossary/JSON.md) (JavaScript Object Notation):[JSON (JavaScript Object Notation)]JSON est un format d'écriture de données en JavaScript (dérivé de la notation des objets du langage JavaScript).facile a utiliser par les hommes.
 * [JSON-LD](/glossary/JSON-LD.md): JSON for Linked Data.
 * [JSX](/glossary/JSX.md): an XML-like syntax extension to JavaScript.
 
@@ -125,7 +124,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### N
 
 * [Nightmare](/glossary/NIGHTMARE.md): a high-level browser automation library.
-* [Node.js](/glossary/NODEJS.md): a cross-platform runtime environment for developing server-side applications built on V8 engine.
+* [Node.js](/glossary/NODEJS.md): [Node.js]Node.js est une plateforme de développement Javascript. c'est juste le langage Javascript avec des bibliothèques permettant de réaliser des actions.
 * [npm](/glossary/NPM.md): a utility to help publishing packages to, and installing from, an npm repository.
 * [nvm](/glossary/NVM.md): a utility to help run multiple versions of Node.js on the same machine.
 
