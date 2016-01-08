@@ -86,7 +86,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### H
 
 * [Hapi](/glossary/HAPI.md): a Node JS framework for writing services and more.
-* [Hoisting](/glossary/HOISTING.md): an action performed by the JavaScript interpreter that moves function and variable declarations to the top of their containing scope.
+* [Hoisting](/glossary/HOISTING.md): C'est une action éxécutée par l'intèprète de JavaScript qui déplace une fonction et une variable dans le sommet qui contenant le scope.
 
 ### I
 
@@ -116,7 +116,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### M
 
 * [Meteor](/glossary/METEOR.md): a JavaScript web framework that allows rapid prototypic web developement.
-* [Mocha](/glossary/MOCHA.md): an extensible testing framework for TDD or BDD.
+* [Mocha](/glossary/MOCHA.md): Un framework de test extensible pour TDD et BDD.
 * [Moment.js](/glossary/MOMENTJS.md): a library to parse, validate, manipulate and display dates.
 * [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
 * [Metalsmith](/glossary/METALSMITH.md): a simple, pluggable static site generator.
@@ -157,7 +157,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### T
 
-* [Three.js](/glossary/THREEJS.md): a lightweight 3D library to create and display animated 3D computer graphics on a Web browser.
+* [Three.js](/glossary/THREEJS.md): Une bibliothèque 3D légère  pour créer et d'afficher l'infographie 3D  animée sur un navigateur internet.
 * [TypeScript](/glossary/TYPESCRIPT.md): a super-set of the JavaScript language that introduces types.
 
 ### U
