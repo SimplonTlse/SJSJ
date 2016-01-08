@@ -70,7 +70,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 * [ECMAScript](/glossary/ECMASCRIPT.md): the standardized specification of the scripting language used by JavaScript.
 * [Ember](/glossary/EMBER.md): an application framework based on the model-view-controller pattern.
-* [ESLint](/glossary/ESLINT.md): a JavaScript code linter.
+* [ESLint](/glossary/ESLINT.md): un code linter JavaScript .
 * [Express](/glossary/EXPRESS.md): a fast, un-opinionated, minimalist web framework for Node.js.
 
 ### F
@@ -106,7 +106,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### K
 
-* [Knockout](/glossary/KNOCKOUT.md): a library that helps developers creating user interfaces with a clean underlying data model.
+* [Knockout](/glossary/KNOCKOUT.md): une bibliothèque qui permet aux développeurs de créer des interfaces utilisateur avec un modèle de données sous-jacente propre.
 
 ### L
 
