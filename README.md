@@ -44,7 +44,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### B
 
 * [Babel](/glossary/BABEL.md): a JavaScript transformation toolkit which started as an ECMAScript 2015 / ES6 code translator (transpiler).
-* [Backbone](/glossary/BACKBONE.md): a structural framework for dynamic web apps.
+* [Backbone](/glossary/BACKBONE.md): un cadre structuré pour des applications web dynamiques.
 * [Bluebird](/glossary/BLUEBIRD.md): a fully featured Promise library with focus on innovative features and performance.
 * [Bower](/glossary/BOWER.md): a package manager for front-end dependencies.
 * [Broccoli](/glossary/BROCCOLI.md): a fast and reliable asset pipeline.
@@ -101,7 +101,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [JSHint](/glossary/JSHINT.md): a JavaScript code linter.
 * [JSLint](/glossary/JSLINT.md): a JavaScript code linter.
 * [JSON](/glossary/JSON.md) (JavaScript Object Notation): a lightweight data-interchange format.
-* [JSON-LD](/glossary/JSON-LD.md): JSON for Linked Data.
+* [JSON-LD](/glossary/JSON-LD.md): JSON pour des données liés.
 * [JSX](/glossary/JSX.md): an XML-like syntax extension to JavaScript.
 
 ### K
@@ -164,7 +164,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 * [UMD](/glossary/UMD.md): a pattern of universal module definition for JavaScript modules.
 * [Underscore](/glossary/UNDERSCORE.md): a swiss army knife, focusing on helper methods for most built-in objects.
-* [Universal](/glossary/UNIVERSAL.md): an application is said to be universal (isomorphic) when its code can run both in the client and the server.
+* [Universal](/glossary/UNIVERSAL.md): une application est dite UNIVERSELLE, ou isomorphique, quand son code fonctionne à la fois pour le client et le serveur.
 
 ### V
 
