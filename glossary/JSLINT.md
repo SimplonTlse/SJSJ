@@ -1,3 +1,5 @@
 # JSLint
 
-[JSLint](http://www.jslint.com/) is a static analysis “code quality” tool for JavaScript.The downsides are that JSLint is not configurable or extensible. You can’t disable many features at all, and some of them lack documentation.
+[JSLint](http://www.jslint.com/) est un outil d'analyse statique de "qualité du code" pour JavaScript.
+Les inconvénients sont que JSLint n'est pas configurable ou extensible. 
+Vous ne pouvez pas désactiver de nombreuses fonctionnalités, et certains d'entre eux manquent de documentation. 
