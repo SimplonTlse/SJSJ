@@ -1,8 +1,10 @@
 # Simplified JavaScript Jargon
 
-*Simplified JavaScript Jargon* (short *SJSJ*) is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words. The idea is not to replace individual documentations, but to act as some kind of glossary that can be easily referrenced.
+*Simplified JavaScript Jargon* (short *SJSJ*) is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words. The idea is not to replace individual documentations, but to act as some kind of glossary that can be easily referenced.
 
 If you are willing to contribute, open a pull request to complete, update or fill in a section. Thank you for doing so!
+
+*Hank Wang has made a command-line tool for SJSJ if you want all the JavaScript goodness directly from your terminal: https://github.com/hanksudo/SJSJ-cli.*
 
 ## Glossary
 
@@ -42,7 +44,8 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### B
 
 * [Babel](/glossary/BABEL.md): a JavaScript transformation toolkit which started as an ECMAScript 2015 / ES6 code translator (transpiler).
-* [Backbone](/glossary/BACKBONE.md): a structural framework for dynamic web apps.
+* [Backbone](/glossary/BACKBONE.md): un cadre structuré pour applications web dynamique.
+ce cadre donne une structure aux applications web en leur fournissant des modèles qui lie des valeurs clé aux événements, et une API avec de nombreuses fonctions, il connecte toutes les API existantes sur l’interface JSON RESTful
 * [Bluebird](/glossary/BLUEBIRD.md): a fully featured Promise library with focus on innovative features and performance.
 * [Bower](/glossary/BOWER.md): a package manager for front-end dependencies.
 * [Broccoli](/glossary/BROCCOLI.md): a fast and reliable asset pipeline.
@@ -53,11 +56,11 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 * [Canvas](/glossary/CANVAS.md): an HTML element for graphic applications in 2D or 3D.
 * [Chai](/glossary/CHAI.md): an assertion library used with a JavaScript testing framework.
-* [Closure](/glossary/CLOSURE.md): *to be completed.*
+* [Closure](/glossary/CLOSURE.md): a way of referencing variables from a child function while retaining their value even if it changes in the parent function.
 * [CoffeeScript](/glossary/COFFEESCRIPT.md): a language that compiles into JavaScript.
 * [CORS](/glossary/CORS.md): a way for a server to make things accessible to pages hosted on other domains.
 * [CouchDB](/glossary/COUCHDB.md): a NoSQL database with JavaScript as query language and HTTP as API.
-* [Currying](/glossary/CURRYING.md): *to be completed.*
+* [Currying](/glossary/CURRYING.md): a technnique that consists of changing a function that takes several arguments into a number of functions that each take one argument.
 
 ### D
 
@@ -99,7 +102,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [JSHint](/glossary/JSHINT.md): a JavaScript code linter.
 * [JSLint](/glossary/JSLINT.md): a JavaScript code linter.
 * [JSON](/glossary/JSON.md) (JavaScript Object Notation): a lightweight data-interchange format.
-* [JSON-LD](/glossary/JSON-LD.md): JSON for Linked Data.
+* [JSON-LD](/glossary/JSON-LD.md): (Web des données .. : Le Web des données est une initiative du W3C visant à favoriser la publication de données structurées sur le Web, non pas sous la forme de silos de données isolés les uns des autres, mais en les reliant entre elles pour constituer un réseau global d'informations. …) est un format léger de « données liés ».Aisé à écrire et lire.Basé sur le format JSON qui a déjà son succès.
 * [JSX](/glossary/JSX.md): an XML-like syntax extension to JavaScript.
 
 ### K
@@ -109,11 +112,11 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### L
 
 * [LocalForage](/glossary/LOCALFORAGE.md): *to be completed.*
-* [Lodash](/glossary/LODASH.md): *to be completed.*
+* [Lodash](/glossary/LODASH.md): a toolbelt with bunch of helpers to work with Javascript data types (string, object,...) in a much more simpler way.
 
 ### M
 
-* [Meteor](/glossary/METEOR.md): *to be completed.*
+* [Meteor](/glossary/METEOR.md): a JavaScript web framework that allows rapid prototypic web developement.
 * [Mocha](/glossary/MOCHA.md): an extensible testing framework for TDD or BDD.
 * [Moment.js](/glossary/MOMENTJS.md): a library to parse, validate, manipulate and display dates.
 * [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
@@ -134,13 +137,16 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [PhantomJS](/glossary/PHANTOMJS.md): *to be completed.*
 * [PhoneGap](/glossary/PHONEGAP.md): *to be completed.*
 * [Polymer](/glossary/POLYMER.md): *to be completed.*
-* [Promise](/glossary/PROMISE.md): a proxy for a value not necessarily known immediatly but that will eventually be resolved.
+* [Promise](/glossary/PROMISE.md): a proxy for a value not necessarily known immediately but that will eventually be resolved.
 * [Prototype](/glossary/PROTOTYPE.md): *to be completed.*
 
 ### Q
 
+* [QUnit](/glossary/QUNIT.md): *to be completed.*
+
 ### R
 
+* [Ramda](/glossary/RAMDA.md): a practical functional library for Javascript programmers.
 * [React](/glossary/REACT.md): a library developed and used at Facebook for building user interfaces.
 * [Redux](/glossary/REDUX.md): a predictable state container for apps.
 * [RxJS](/glossary/RXJS.md): a library for asynchronous programming using observable streams.
@@ -157,19 +163,20 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### U
 
+* [UMD](/glossary/UMD.md): a pattern of universal module definition for JavaScript modules.
 * [Underscore](/glossary/UNDERSCORE.md): a swiss army knife, focusing on helper methods for most built-in objects.
-* [Universal](/glossary/UNIVERSAL.md): an application is said to be universal (isomorphic) when its code can run both in the client and the server.
-
+* [Universal](/glossary/UNIVERSAL.md): une application est dites universelle (isomorphomique, de meme forme) quand son code (écriture) peut s’appliquer autant pour le client que pour le serveur. l'idée sous jacente est de permettre au serveur de prendre en main et restituer la direction pour des non utilisateurs de JavaScript, pendant que cela donne la possibilité de le faire marcher dans le moteur de recherche pour des interactions rapide sans impliquer les traditionnels rechargement de page.
 ### V
 
 * [V8](/glossary/V8.md): Google’s open source javaScript engine. It’s what Chrome is running, but it’s also used for other projects like Node.js and MongoDB.
-* [Vanilla](/glossary/VANILLA.md): *to be completed.*
-* [Virtual DOM](/glossary/VIRTUAL_DOM.md): *to be completed.*
+* [Vanilla](/glossary/VANILLA.md): a term for library/framework free JavaScript.
+* [Virtual DOM](/glossary/VIRTUAL_DOM.md): a copy of the DOM in memory that the program can modify instead of directly interfacing with the "real" DOM to help speed up interactions
+* [VueJS](/glossary/VUEJS.md): a library for creating user interfaces based on data models.
 
 ### W
 
 * [WebGL](/glossary/WEBGL.md) (Web Graphics Library): a JavaScript API for rendering interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins.
-* [webpack](/glossary/WEBPACK.md): a dependency manager with a friendly and fast development environment, simplifying a lot of common tasks.
+* [Webpack](/glossary/WEBPACK.md): a dependency manager with a friendly and fast development environment, simplifying a lot of common tasks.
 
 ### X
 
