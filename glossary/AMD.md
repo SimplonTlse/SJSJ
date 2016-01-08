@@ -1,43 +1,40 @@
 # AMD
 
-[AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) stands for Asynchronous Module Definition. It is an alternative to [Common JS (CJS)](CommonJS.md) specification.
+[AMD] (https://github.com/amdjs/amdjs-api/wiki/AMD) représente Définition module asynchrone. Il est une alternative à [JS commune (CJS)] (CommonJS.md) spécification.
 
-The API specifies a mechanism for defining modules such that the module and its dependencies can be asynchronously loaded. This is particularly well suited for the browser environment where synchronous loading of modules incurs performance, usability, debugging, and cross-domain access problems.
+L'API spécifie un mécanisme permettant de définir des modules tels que le module et ses dépendances peuvent être chargées de manière asynchrone. Cela est particulièrement bien adapté pour l'environnement du navigateur où le chargement synchrone des modules encourt performances, convivialité, débogage, et les problèmes d'accès inter-domaines.
 
-AMD Libraries expose a global `define` function whose footprint is
+AMD bibliothèques exposer une define` fonction globale dont l'empreinte est `
 
-```js
-define(modulename?,[dependencyA?, dependencyB?, ...], function(objectA, objectB, ...) {
+`` `js
+define (MODULENAME?, [dependencyA ?, dependencyB ?, ...], la fonction (objectA, objectB, ...) {
 ...
-    var myExportedObj = function() {...}
-    return myExportedObj;
+    var myExportedObj = function () {...}
+    retourner myExportedObj;
 
 });
-```
+`` `
 
-Where
+Où
 
-- `modulename` is an optional string parameter to explicitly declare the id of the current module
-- `dependencyA`, `dependencyB` and so on, are the dependencies for the current module
-- `function(objectA, objectB) {...}` is a factory whose arguments are the exported objects of each dependency. 
-- `myExportedObj` an optional return value (since a module might be just adding methods to an existing object) but, if declared, it would be this module's exported object, which other modules would get if they list `modulename` among their dependencies.
+- `Modulename` est un paramètre de chaîne facultatif de déclarer explicitement l'id du module courant
+- `DependencyA`,` dependencyB` et ainsi de suite, sont les dépendances pour le module courant
+- `Fonction (objectA, objectB) {...}` est une usine dont les arguments sont les objets exportés de chaque dépendance.
+- `MyExportedObj` une valeur de retour en option (depuis un module pourrait être simplement l'ajout de méthodes à un objet existant), mais, si elle est déclarée, il serait l'objet exporté de ce module, qui d'autres modules obtiendraient si ils énumèrent` modulename` parmi leurs dépendances.
 
-Aside from the global `define` function, an AMD compliant library must have a `define.amd` property whose value is an object. Checking for the existance of both `define` and `define.amd` in the global scope allows any script to verify it is being called from an AMD loader.
+Mis à part la fonction `define` mondiale, une bibliothèque compatible AMD doit avoir une propriété` define.amd` dont la valeur est un objet. Vérification de l'existence de deux `et` define.amd` define` dans la portée globale permet un script pour vérifier qu'il est appelé à partir d'un chargeur AMD.
 
-Examples of libraries providing AMD loading capabilities are:
+Des exemples de bibliothèques offrant des capacités de chargement AMD sont:
 
-- [Require JS](http://requirejs.org/docs/whyamd.html) written by Mozilla's [James Burke](https://github.com/jrburke/). One of the first ones to become widely used and still the most popular. It provides a limited interoperability with CommonJS modules too.
-- [CurlJS](https://github.com/cujojs/curl) part of the [CujoJS Framework](http://cujojs.com/). CurlJS is less popular than RequireJS and is receiving only maintenance updates, no new features since 2014.
-- [Alameda](https://github.com/requirejs/alameda) also made by James Burke, it's like RequireJS but using promises to manage the completion events.
-- [Cajon](https://github.com/requirejs/cajon) also made by James Burke, it's like a decorator for RequireJS that replaces the `load` method to fetch dependencies through Ajax calls.
-- [SystemJS](https://github.com/systemjs/systemjs) by [Guy Bedford](https://github.com/guybedford) who, until a couple of years ago, was one of the most active plugin developers for RequireJS. SystemJS can load AMD, CommonJS and ES6 modules seamlessly and is mostly used in combination with [jspm](http://jspm.io/), which acts as a dependency manager (not unlike [Bower](Bower.md)) leveraging in Github and NPM. 
+- [Demander JS] (http://requirejs.org/docs/whyamd.html) écrit par [James Burke] de Mozilla (https://github.com/jrburke/). Un des premiers à devenir largement utilisé et toujours le plus populaire. Il fournit une interopérabilité limitée avec CommonJS modules trop.
+- [CurlJS] (https://github.com/cujojs/curl) partie de la [cadre CujoJS] (http://cujojs.com/). CurlJS est moins populaire que RequireJS et reçoit seulement des mises à jour de maintenance, pas de nouvelles fonctionnalités depuis 2 014.
+- [Alameda] (https://github.com/requirejs/alameda) également réalisé par James Burke, il est comme RequireJS mais en utilisant promesses pour gérer les événements d'achèvement.
+- [Cajon] (https://github.com/requirejs/cajon) également réalisé par James Burke, il est comme un décorateur pour RequireJS qui remplace la méthode `load` chercher dépendances à travers des appels Ajax.
+- [SystemJS] (https://github.com/systemjs/systemjs) par [Guy Bedford] (https://github.com/guybedford) qui, jusqu'à il ya quelques années, était l'un des développeurs les plus actifs du plugin pour RequireJS. SystemJS peuvent charger AMD, CommonJS et ES6 modules de façon transparente et est principalement utilisé en combinaison avec [jspm] (http://jspm.io/), qui agit en tant que gestionnaire de dépendance (un peu comme [Bower] (Bower.md)) exploitant dans Github et NPM.
 
-All these libraries allow for the developer to preview a project whithout any build step, requesting the dependencies asynchronously. There's usually an optional (but reccomended) build or bundling step for production deploys, in order to minify the code and minimize the number of requests in order to enhance load times. Allegedly, the coming of [HTTP2](https://http2.github.io/) support in browsers and webservers should eliminate the need for extra requests when loading dependencies asynchronously, thus eliminating the need of a build step.
+Toutes ces bibliothèques permettent au développeur de prévisualiser un projet whithout toute étape de la construction, en demandant les dépendances de manière asynchrone. Il ya habituellement une étape facultative (mais reccomended) construire ou regroupement pour déploie de production, afin de rapetisser le code et de minimiser le nombre de demandes en vue d'améliorer les temps de chargement. Apparemment, la venue de [HTTP2] (https://http2.github.io/) soutien dans les navigateurs et les serveurs Web devrait éliminer la nécessité pour les demandes supplémentaires lors du chargement des dépendances de manière asynchrone, éliminant ainsi la nécessité d'une étape de construction.
 
-Other libraries that can't load dependencies asynchronously but can include AMD modules in their build workflow, are, for example:
+Autres bibliothèques qui ne peut pas charger les dépendances de façon asynchrone, mais peuvent inclure des modules AMD dans leur flux de travail de construction, sont, par exemple:
 
-- [Webpack](WEBPACK.md) 
-- [Rollup](http://rollupjs.org/)
-- [StealJS](http://stealjs.com/)
-
-
+- [Webpack] (WEBPACK.md)
+- [Rollup] (http://rollupjs.org/)
