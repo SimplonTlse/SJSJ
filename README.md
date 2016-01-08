@@ -117,14 +117,14 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 * [Meteor](/glossary/METEOR.md): a JavaScript web framework that allows rapid prototypic web developement.
 * [Mocha](/glossary/MOCHA.md): an extensible testing framework for TDD or BDD.
-* [Moment.js](/glossary/MOMENTJS.md): a library to parse, validate, manipulate and display dates.
+* [Moment.js](/glossary/MOMENTJS.md): Bibliothèque pour analyser, valider, manipuler et afficher des dates.
 * [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
-* [Metalsmith](/glossary/METALSMITH.md): a simple, pluggable static site generator.
+* [Metalsmith](/glossary/METALSMITH.md): Un plug générateur de site extrêmement simple, statique.
 * [MEAN](/glossary/MEAN.md): the technology stack MongoDB, ExpressJS, AngularJS, and Node.js (MEAN).
 
 ### N
 
-* [Nightmare](/glossary/NIGHTMARE.md): a high-level browser automation library.
+* [Nightmare](/glossary/NIGHTMARE.md): Bibliothèque d'automatisation de navigateur de haut niveau.
 * [Node.js](/glossary/NODEJS.md): a cross-platform runtime environment for developing server-side applications built on V8 engine.
 * [npm](/glossary/NPM.md): a utility to help publishing packages to, and installing from, an npm repository.
 * [nvm](/glossary/NVM.md): a utility to help run multiple versions of Node.js on the same machine.
