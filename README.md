@@ -46,7 +46,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [Babel](/glossary/BABEL.md): a JavaScript transformation toolkit which started as an ECMAScript 2015 / ES6 code translator (transpiler).
 * [Backbone](/glossary/BACKBONE.md): a structural framework for dynamic web apps.
 * [Bluebird](/glossary/BLUEBIRD.md): a fully featured Promise library with focus on innovative features and performance.
-* [Bower](/glossary/BOWER.md): a package manager for front-end dependencies.
+* [Bower](/glossary/BOWER.md): un gestionnaire de paquets pour les dépendances front-end.
 * [Broccoli](/glossary/BROCCOLI.md): a fast and reliable asset pipeline.
 * [Browserify](/glossary/BROWSERIFY.md): a tool making possible to use the `require` function from Node.js within the browser.
 * [Brunch](/glossary/BRUNCH.md): a tool focusing on the production of deployment-ready files from development files.
@@ -126,7 +126,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 * [Nightmare](/glossary/NIGHTMARE.md): a high-level browser automation library.
 * [Node.js](/glossary/NODEJS.md): a cross-platform runtime environment for developing server-side applications built on V8 engine.
-* [npm](/glossary/NPM.md): a utility to help publishing packages to, and installing from, an npm repository.
+* [npm](/glossary/NPM.md): un utilitaire qui aide à la publication de paquets et à leur installation depuis un repertoir npm.
 * [nvm](/glossary/NVM.md): a utility to help run multiple versions of Node.js on the same machine.
 
 ### O
