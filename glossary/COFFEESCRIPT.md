@@ -1,5 +1,4 @@
 # CoffeeScript
 
-[CoffeeScript](http://coffeescript.org/) is a little language that compiles into JavaScript. It is an attempt to expose the good parts of JavaScript in a simple way and friendly syntax, the golden rule being: “It’s just JavaScript”.
-
-The code compiles one-to-one into the equivalent JavaScript, and there is no interpretation at runtime. The compiled output is readable and pretty-printed, will work in every JavaScript runtime, and tends to run as fast or faster than the equivalent handwritten JavaScript.
+[CoffeeScript](http://coffeescript.org/) un langage de programmation alternatif qui se compile en javascript , il s'agit d'un preprocesseur : on va ecrire nos fichier en coffeescript et par la suite on les convertit en javascript
+pourquoi? la principal raison est la simplification de la syntaxe , code plus lisible et plus concis que javascript
