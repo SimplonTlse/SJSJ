@@ -49,7 +49,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [Bower](/glossary/BOWER.md): a package manager for front-end dependencies.
 * [Broccoli](/glossary/BROCCOLI.md): a fast and reliable asset pipeline.
 * [Browserify](/glossary/BROWSERIFY.md): a tool making possible to use the `require` function from Node.js within the browser.
-* [Brunch](/glossary/BRUNCH.md): a tool focusing on the production of deployment-ready files from development files.
+* [Brunch](/glossary/BRUNCH.md): Un outil ciblé sur la production de fichiers prêts à être déployés à partir de fichiers de développement.
 
 ### C
 
@@ -85,7 +85,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### H
 
-* [Hapi](/glossary/HAPI.md): a Node JS framework for writing services and more.
+* [Hapi](/glossary/HAPI.md): Un framework Node JS pour écrire des services et plus.
 * [Hoisting](/glossary/HOISTING.md): an action performed by the JavaScript interpreter that moves function and variable declarations to the top of their containing scope.
 
 ### I
