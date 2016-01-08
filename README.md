@@ -96,8 +96,8 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### J
 
 * [Jasmine](/glossary/JASMINE.md): a testing framework for BDD.
-* [jQuery](/glossary/JQUERY.md): a fast, small, and feature-rich client-side library.
-* [JSCS](/glossary/JSCS.md): a JavaScript code linter.
+* [jQuery](/glossary/JQUERY.md): une vite, petit, et Riche en fonctionnalités côté clients.
+* [JSCS](/glossary/JSCS.md): le JavaScript code linter.
 * [JSHint](/glossary/JSHINT.md): a JavaScript code linter.
 * [JSLint](/glossary/JSLINT.md): a JavaScript code linter.
 * [JSON](/glossary/JSON.md) (JavaScript Object Notation): a lightweight data-interchange format.
@@ -175,7 +175,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### W
 
-* [WebGL](/glossary/WEBGL.md) (Web Graphics Library): a JavaScript API for rendering interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins.
+* [WebGL](/glossary/WEBGL.md) (Web Graphics Library): une API JavaScript pour le rendu 3D interactif et graphiques 2D au sein d'un navigateur Web compatible sans l'utilisation de plug-ins.
 * [Webpack](/glossary/WEBPACK.md): a dependency manager with a friendly and fast development environment, simplifying a lot of common tasks.
 
 ### X
