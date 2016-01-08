@@ -1,3 +1,3 @@
 # Underscore
 
-[Underscore](http://underscorejs.org/) is a small library which provides many helpers to write JavaScript in a more functional way without extending built-in prototypes. It may be seen as the swiss army knife of JavaScript development, as it provides a helper for most API shortcomings of built-in objects.
+[Underscore](http://underscorejs.org/) une petite bibliothèque qui fournit de nombreuses aides pour écrire JavaScript de manière plus fonctionnelle sans étendre prototypes intégrés. Il peut être considéré comme le couteau suisse du développement JavaScript, car il fournit une aide pour la plupart des défauts de l'API d'objets intégrés.

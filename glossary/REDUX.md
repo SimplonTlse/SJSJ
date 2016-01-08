@@ -1,5 +1,5 @@
 # Redux
 
-[Redux](http://redux.js.org/) is a predictable state container for JavaScript apps, which is a fancy way of saying it controls application state and state mutations. It does so by keeping state in a store, which is the single source of truth.
+[Redux](http://redux.js.org/) est un conteneur d'état prévisible pour les applications JavaScript, ce qui est une façon élégante de dire qu'il contrôle mutations état de l'application et de l'Etat. Il le fait en gardant l'état dans un magasin, qui est la seule source de vérité.
 
-Redux is an alternative to [Flux](FLUX.md) and used a lot together with [React](REACT.md), but you can use it with any other view library.
+Redux est une alternative à [Flux](FLUX.md) et beaucoup utilisé conjointement avec [Réagir](REACT.md), mais vous pouvez l'utiliser avec une autre bibliothèque de vue
