@@ -1,3 +1,3 @@
 # JSHint
 
-[JSHint](http://jshint.com/) was created as a more configurable version of [JSLint](JSLINT.md) (of which it is a fork). You can configure every rule, and put them into a configuration file, which makes JSHint easy to use in bigger projects. JSHint also has good documentation for each of the rules, so you know exactly what they do.
+[JSHint](http://jshint.com/) est une version plus configurable de [JSLint](JSLINT.md) (dont elle est une branche). Vous pouvez configurer chaque règle et les mettre dans un dossier de configuration, ce qui rend JSHint facile à utiliser lors de gros projets. JSHint a également une bonne documentation pour chacunes de ces règles, ainsi vous avez accès à l'explication de toutes ces fonctionnalités très précisemment.
