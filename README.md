@@ -38,7 +38,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### A
 
 * [AJAX](/glossary/AJAX.md): a technology for asynchronous HTTP requests.
-* [AMD](/glossary/AMD.md): a standard defining how to load JavaScript libraries or modules asynchronously.
+* [AMD](/glossary/AMD.md): une norme définissant comment charger les bibliothèques JavaScript ou modules de manière asynchrone.
 * [AngularJS](/glossary/ANGULARJS.md): a structural framework for dynamic web apps.
 
 ### B
@@ -127,7 +127,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [Nightmare](/glossary/NIGHTMARE.md): a high-level browser automation library.
 * [Node.js](/glossary/NODEJS.md): a cross-platform runtime environment for developing server-side applications built on V8 engine.
 * [npm](/glossary/NPM.md): a utility to help publishing packages to, and installing from, an npm repository.
-* [nvm](/glossary/NVM.md): a utility to help run multiple versions of Node.js on the same machine.
+* [nvm](/glossary/NVM.md): un utilitaire pour aider à exécuter plusieurs versions de Node.js sur la même machine.
 
 ### O
 
